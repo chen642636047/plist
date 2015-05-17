@@ -11,17 +11,17 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://101.231.186.13/download/nba_heroes_iOS.ipa</string>
+					<string>http://218.244.145.181/xgame.enterprise.20150517.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.testnba.app</string>
+				<string>com.hanniu.xgame</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>nba sanguo dl</string>
+				<string>xgame</string>
 			</dict>
 		</dict>
 	</array>
